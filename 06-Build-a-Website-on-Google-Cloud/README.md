@@ -2,10 +2,12 @@
 
 ## 📌 Links & Overview
 - **Lab ID:** GSP319
-- **🔗 Direct Challenge Lab Link:** <a href="https://www.cloudskillsboost.google/focuses/1160?parent=catalog" target="_blank" rel="noopener noreferrer">Open GSP319 Lab ↗</a>
-- **🎓 Course & Badge Claim Link:** <a href="https://www.cloudskillsboost.google/course_templates/638" target="_blank" rel="noopener noreferrer">Claim Badge ↗</a>
+- **🎓 Course & Lab Link:** [Open Course & Challenge Lab ↗](https://skills.google/course_templates/638) *(Hold `Ctrl` + Click to open in a new tab)*
 - **Topic:** GKE Cluster, Container Registry, Monolith Deployment, Orders & Products Microservices, Frontend React/Node Deployment.
 - **Estimated Time:** 5 minutes
+
+> [!TIP]
+> **Avoid `QL401 Access Denied` Error:** Always open the lab by clicking the **Course & Lab Link** above and selecting the Challenge Lab from the syllabus. Direct `/focuses/` links are blocked by Google Cloud Skills Boost unless opened through the enrolled course page.
 
 ---
 

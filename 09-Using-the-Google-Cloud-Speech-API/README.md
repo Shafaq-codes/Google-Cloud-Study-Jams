@@ -2,10 +2,12 @@
 
 ## 📌 Links & Overview
 - **Lab ID:** ARC131
-- **🔗 Direct Challenge Lab Link:** <a href="https://www.cloudskillsboost.google/focuses/44299?parent=catalog" target="_blank" rel="noopener noreferrer">Open ARC131 Lab ↗</a>
-- **🎓 Course & Badge Claim Link:** <a href="https://www.cloudskillsboost.google/course_templates/678" target="_blank" rel="noopener noreferrer">Claim Badge ↗</a>
+- **🎓 Course & Lab Link:** [Open Course & Challenge Lab ↗](https://skills.google/course_templates/678) *(Hold `Ctrl` + Click to open in a new tab)*
 - **Topic:** Cloud Speech-to-Text API, Audio transcription, API key authentication, Audio encoding.
 - **Estimated Time:** 2 minutes
+
+> [!TIP]
+> **Avoid `QL401 Access Denied` Error:** Always open the lab by clicking the **Course & Lab Link** above and selecting the Challenge Lab from the syllabus. Direct `/focuses/` links are blocked by Google Cloud Skills Boost unless opened through the enrolled course page.
 
 ---
 
