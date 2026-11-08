@@ -1,4 +1,4 @@
-# Badge 02: Using the Google Cloud Speech API (ARC131)
+# Badge 09: Using the Google Cloud Speech API (ARC131)
 
 ## 📌 Links & Overview
 - **Lab ID:** ARC131

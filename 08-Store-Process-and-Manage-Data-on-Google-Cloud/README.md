@@ -1,4 +1,4 @@
-# Badge 07: Store, Process, and Manage Data on Google Cloud - Console (ARC100)
+# Badge 08: Store, Process, and Manage Data on Google Cloud - Console (ARC100)
 
 ## 📌 Links & Overview
 - **Lab ID:** ARC100

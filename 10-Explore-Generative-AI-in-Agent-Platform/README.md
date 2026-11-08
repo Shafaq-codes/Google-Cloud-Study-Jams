@@ -1,4 +1,4 @@
-# Badge 09: Explore Generative AI with the Gemini API in Agent Platform (GSP515)
+# Badge 10: Explore Generative AI with the Gemini API in Agent Platform (GSP515)
 
 ## 📌 Links & Overview
 - **Lab ID:** GSP515

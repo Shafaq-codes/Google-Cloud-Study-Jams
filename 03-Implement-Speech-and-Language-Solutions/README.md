@@ -1,4 +1,4 @@
-# Badge 04: Implement Speech and Language Solutions with Pre-trained APIs (ARC132)
+# Badge 03: Implement Speech and Language Solutions with Pre-trained APIs (ARC132)
 
 ## 📌 Links & Overview
 - **Lab ID:** ARC132

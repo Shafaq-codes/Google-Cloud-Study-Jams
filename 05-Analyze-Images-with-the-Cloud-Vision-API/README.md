@@ -1,4 +1,4 @@
-# Badge 10: Analyze Images with the Cloud Vision API (ARC122)
+# Badge 05: Analyze Images with the Cloud Vision API (ARC122)
 
 ## 📌 Links & Overview
 - **Lab ID:** ARC122

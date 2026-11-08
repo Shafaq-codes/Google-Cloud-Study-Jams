@@ -1,4 +1,4 @@
-# Badge 05: Develop AI-Powered Prototypes in Google AI Studio (GSP529)
+# Badge 04: Develop AI-Powered Prototypes in Google AI Studio (GSP529)
 
 ## 📌 Links & Overview
 - **Lab ID:** GSP529

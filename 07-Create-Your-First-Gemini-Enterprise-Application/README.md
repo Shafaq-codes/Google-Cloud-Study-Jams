@@ -1,4 +1,4 @@
-# Badge 08: Create Your First Gemini Enterprise Application (Assessment Quiz)
+# Badge 07: Create Your First Gemini Enterprise Application (Assessment Quiz)
 
 ## 📌 Lab Overview
 - **Course Name:** Create Your First Gemini Enterprise Application

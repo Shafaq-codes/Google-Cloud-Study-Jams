@@ -1,6 +1,6 @@
 # 🚀 Google Cloud Study Jams - 10/10 Skill Badges Speedrun Guide
 
-Complete, verified, and 1-click solutions for all **10 Required Skill Badges** in the **Google Cloud Learn with Communities (Study Jam)** program.
+Complete, verified, and 1-click solutions for all **10 Required Skill Badges** in the **Google Cloud Learn with Communities (Study Jam)** program, arranged in the exact order of the Study Jams Dashboard.
 
 > [!IMPORTANT]
 > ### ⚠️ STEP 0: Check Your Assigned Region & Zone!
@@ -22,20 +22,20 @@ Complete, verified, and 1-click solutions for all **10 Required Skill Badges** i
 
 ---
 
-## 🏆 10-Badge Roadmap, Direct Links & Quick Index
+## 🏆 10-Badge Roadmap & Quick Index (Exact Dashboard Sequence)
 
 | # | Skill Badge Name | Lab ID | 🔗 Direct Lab Link | 🎓 Course Claim Link | Solution Folder |
 |---|------------------|:------:|:------------------:|:--------------------:|:---------------:|
-| 1 | **The Basics of Google Cloud Compute** | ARC120 | [Open Lab](https://www.cloudskillsboost.google/focuses/44154?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/644) | [`01-Compute`](./01-The-Basics-of-Google-Cloud-Compute/) |
-| 2 | **Using the Google Cloud Speech API** | ARC131 | [Open Lab](https://www.cloudskillsboost.google/focuses/44299?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/678) | [`02-Speech-API`](./02-Using-the-Google-Cloud-Speech-API/) |
-| 3 | **Configure Service Accounts and IAM Roles** | ARC134 | [Open Lab](https://www.cloudskillsboost.google/focuses/44301?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/702) | [`03-IAM-Roles`](./03-Configure-Service-Accounts-and-IAM-Roles/) |
-| 4 | **Implement Speech and Language Solutions** | ARC132 | [Open Lab](https://www.cloudskillsboost.google/focuses/44300?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/679) | [`04-Speech-Language`](./04-Implement-Speech-and-Language-Solutions/) |
-| 5 | **Develop AI-Powered Prototypes in AI Studio** | GSP529 | [Open Lab](https://www.cloudskillsboost.google/focuses/105436?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/997) | [`05-AI-Studio`](./05-Develop-AI-Powered-Prototypes-in-Google-AI-Studio/) |
-| 6 | **Build a Website on Google Cloud** | GSP319 | [Open Lab](https://www.cloudskillsboost.google/focuses/1160?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/638) | [`06-Website`](./06-Build-a-Website-on-Google-Cloud/) |
-| 7 | **Store, Process, and Manage Data on Google Cloud** | ARC100 | [Open Lab](https://www.cloudskillsboost.google/focuses/44155?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/658) | [`07-Store-Data`](./07-Store-Process-and-Manage-Data-on-Google-Cloud/) |
-| 8 | **Create Your First Gemini Enterprise Application** | Quiz | [Open Course & Quiz](https://www.cloudskillsboost.google/course_templates/1068) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/1068) | [`08-Gemini-Enterprise`](./08-Create-Your-First-Gemini-Enterprise-Application/) |
-| 9 | **Explore Generative AI in Agent Platform** | GSP515 | [Open Lab](https://skills.google/focuses/85653?parent=catalog) | [Claim Badge](https://skills.google/course_templates/959) | [`09-Agent-Platform`](./09-Explore-Generative-AI-in-Agent-Platform/) |
-| 10 | **Analyze Images with the Cloud Vision API** | ARC122 | [Open Lab](https://skills.google/focuses/64748?parent=catalog) | [Claim Badge](https://skills.google/course_templates/633) | [`10-Vision-API`](./10-Analyze-Images-with-the-Cloud-Vision-API/) |
+| 1 | **The Basics of Google Cloud Compute** | ARC120 | [Open Lab](https://www.cloudskillsboost.google/focuses/44154?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/644) | [`01-The-Basics-of-Google-Cloud-Compute`](./01-The-Basics-of-Google-Cloud-Compute/) |
+| 2 | **Configure Service Accounts and IAM Roles for Google Cloud** | ARC134 | [Open Lab](https://www.cloudskillsboost.google/focuses/44301?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/702) | [`02-Configure-Service-Accounts-and-IAM-Roles`](./02-Configure-Service-Accounts-and-IAM-Roles/) |
+| 3 | **Implement Speech and Language Solutions with Pre-trained APIs** | ARC132 | [Open Lab](https://www.cloudskillsboost.google/focuses/44300?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/679) | [`03-Implement-Speech-and-Language-Solutions`](./03-Implement-Speech-and-Language-Solutions/) |
+| 4 | **Develop AI-Powered Prototypes in Google AI Studio** | GSP529 | [Open Lab](https://www.cloudskillsboost.google/focuses/105436?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/997) | [`04-Develop-AI-Powered-Prototypes-in-Google-AI-Studio`](./04-Develop-AI-Powered-Prototypes-in-Google-AI-Studio/) |
+| 5 | **Analyze Images with the Cloud Vision API** | ARC122 | [Open Lab](https://skills.google/focuses/64748?parent=catalog) | [Claim Badge](https://skills.google/course_templates/633) | [`05-Analyze-Images-with-the-Cloud-Vision-API`](./05-Analyze-Images-with-the-Cloud-Vision-API/) |
+| 6 | **Build a Website on Google Cloud** | GSP319 | [Open Lab](https://www.cloudskillsboost.google/focuses/1160?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/638) | [`06-Build-a-Website-on-Google-Cloud`](./06-Build-a-Website-on-Google-Cloud/) |
+| 7 | **Create Your First Gemini Enterprise Application** | Quiz | [Open Course & Quiz](https://www.cloudskillsboost.google/course_templates/1068) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/1068) | [`07-Create-Your-First-Gemini-Enterprise-Application`](./07-Create-Your-First-Gemini-Enterprise-Application/) |
+| 8 | **Store, Process, and Manage Data on Google Cloud - Console** | ARC100 | [Open Lab](https://www.cloudskillsboost.google/focuses/44155?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/658) | [`08-Store-Process-and-Manage-Data-on-Google-Cloud`](./08-Store-Process-and-Manage-Data-on-Google-Cloud/) |
+| 9 | **Using the Google Cloud Speech API** | ARC131 | [Open Lab](https://www.cloudskillsboost.google/focuses/44299?parent=catalog) | [Claim Badge](https://www.cloudskillsboost.google/course_templates/678) | [`09-Using-the-Google-Cloud-Speech-API`](./09-Using-the-Google-Cloud-Speech-API/) |
+| 10 | **Explore Generative AI in Agent Platform** | GSP515 | [Open Lab](https://skills.google/focuses/85653?parent=catalog) | [Claim Badge](https://skills.google/course_templates/959) | [`10-Explore-Generative-AI-in-Agent-Platform`](./10-Explore-Generative-AI-in-Agent-Platform/) |
 
 ---
 
@@ -59,32 +59,32 @@ Complete, verified, and 1-click solutions for all **10 Required Skill Badges** i
 ├── 01-The-Basics-of-Google-Cloud-Compute/
 │   ├── README.md
 │   └── solution.sh
-├── 02-Using-the-Google-Cloud-Speech-API/
+├── 02-Configure-Service-Accounts-and-IAM-Roles/
 │   ├── README.md
 │   └── solution.sh
-├── 03-Configure-Service-Accounts-and-IAM-Roles/
+├── 03-Implement-Speech-and-Language-Solutions/
 │   ├── README.md
 │   └── solution.sh
-├── 04-Implement-Speech-and-Language-Solutions/
-│   ├── README.md
-│   └── solution.sh
-├── 05-Develop-AI-Powered-Prototypes-in-Google-AI-Studio/
+├── 04-Develop-AI-Powered-Prototypes-in-Google-AI-Studio/
 │   └── README.md
+├── 05-Analyze-Images-with-the-Cloud-Vision-API/
+│   ├── README.md
+│   └── solution.sh
 ├── 06-Build-a-Website-on-Google-Cloud/
 │   ├── README.md
 │   └── solution.sh
-├── 07-Store-Process-and-Manage-Data-on-Google-Cloud/
+├── 07-Create-Your-First-Gemini-Enterprise-Application/
+│   └── README.md
+├── 08-Store-Process-and-Manage-Data-on-Google-Cloud/
 │   ├── README.md
 │   └── solution.sh
-├── 08-Create-Your-First-Gemini-Enterprise-Application/
-│   └── README.md
-├── 09-Explore-Generative-AI-in-Agent-Platform/
+├── 09-Using-the-Google-Cloud-Speech-API/
+│   ├── README.md
+│   └── solution.sh
+├── 10-Explore-Generative-AI-in-Agent-Platform/
 │   ├── README.md
 │   ├── task1_curl.sh
 │   └── notebook_code.py
-├── 10-Analyze-Images-with-the-Cloud-Vision-API/
-│   ├── README.md
-│   └── solution.sh
 └── README.md
 ```
 

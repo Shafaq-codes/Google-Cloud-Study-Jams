@@ -1,4 +1,4 @@
-# Badge 03: Configure Service Accounts and IAM Roles for Google Cloud (ARC134)
+# Badge 02: Configure Service Accounts and IAM Roles for Google Cloud (ARC134)
 
 ## 📌 Links & Overview
 - **Lab ID:** ARC134
