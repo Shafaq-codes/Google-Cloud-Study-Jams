@@ -2,8 +2,8 @@
 
 ## 📌 Links & Overview
 - **Lab ID:** ARC120
-- **🔗 Direct Challenge Lab Link:** [Open ARC120 Lab](https://www.cloudskillsboost.google/focuses/44154?parent=catalog)
-- **🎓 Course & Badge Claim Link:** [Claim Badge](https://www.cloudskillsboost.google/course_templates/644)
+- **🔗 Direct Challenge Lab Link:** <a href="https://www.cloudskillsboost.google/focuses/44154?parent=catalog" target="_blank" rel="noopener noreferrer">Open ARC120 Lab ↗</a>
+- **🎓 Course & Badge Claim Link:** <a href="https://www.cloudskillsboost.google/course_templates/644" target="_blank" rel="noopener noreferrer">Claim Badge ↗</a>
 - **Topic:** Compute Engine VM Instances, Persistent Disks, Firewall Rules (HTTP/HTTPS), NGINX Web Server.
 - **Estimated Time:** 3 minutes
 

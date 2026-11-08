@@ -2,8 +2,8 @@
 
 ## 📌 Links & Overview
 - **Lab ID:** ARC132
-- **🔗 Direct Challenge Lab Link:** [Open ARC132 Lab](https://www.cloudskillsboost.google/focuses/44300?parent=catalog)
-- **🎓 Course & Badge Claim Link:** [Claim Badge](https://www.cloudskillsboost.google/course_templates/679)
+- **🔗 Direct Challenge Lab Link:** <a href="https://www.cloudskillsboost.google/focuses/44300?parent=catalog" target="_blank" rel="noopener noreferrer">Open ARC132 Lab ↗</a>
+- **🎓 Course & Badge Claim Link:** <a href="https://www.cloudskillsboost.google/course_templates/679" target="_blank" rel="noopener noreferrer">Claim Badge ↗</a>
 - **Topic:** Cloud Speech-to-Text API, Cloud Natural Language API, Cloud Translation API.
 - **Estimated Time:** 3 minutes
 

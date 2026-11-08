@@ -2,8 +2,8 @@
 
 ## 📌 Links & Overview
 - **Lab ID:** GSP529
-- **🔗 Direct Challenge Lab Link:** [Open GSP529 Lab](https://www.cloudskillsboost.google/focuses/105436?parent=catalog)
-- **🎓 Course & Badge Claim Link:** [Claim Badge](https://www.cloudskillsboost.google/course_templates/997)
+- **🔗 Direct Challenge Lab Link:** <a href="https://www.cloudskillsboost.google/focuses/105436?parent=catalog" target="_blank" rel="noopener noreferrer">Open GSP529 Lab ↗</a>
+- **🎓 Course & Badge Claim Link:** <a href="https://www.cloudskillsboost.google/course_templates/997" target="_blank" rel="noopener noreferrer">Claim Badge ↗</a>
 - **Topic:** Google AI Studio, System Instructions, Few-shot Prompting, Multimodal Image Input, Code Export.
 - **Estimated Time:** 2 minutes
 

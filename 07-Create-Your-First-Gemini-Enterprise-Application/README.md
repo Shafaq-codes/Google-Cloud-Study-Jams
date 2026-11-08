@@ -1,7 +1,8 @@
 # Badge 07: Create Your First Gemini Enterprise Application (Assessment Quiz)
 
 ## 📌 Lab Overview
-- **Course Name:** Create Your First Gemini Enterprise Application
+- **🔗 Direct Quiz & Course Link:** <a href="https://www.cloudskillsboost.google/course_templates/1068" target="_blank" rel="noopener noreferrer">Open Course & Quiz ↗</a>
+- **🎓 Badge Claim Link:** <a href="https://www.cloudskillsboost.google/course_templates/1068" target="_blank" rel="noopener noreferrer">Claim Badge ↗</a>
 - **Type:** Assessment Quiz (8 Questions)
 - **Score:** 100% (8/8 Correct)
 - **Estimated Time:** 1 minute (Instant Completion)

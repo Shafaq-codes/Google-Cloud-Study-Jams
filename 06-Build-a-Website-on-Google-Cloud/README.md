@@ -2,8 +2,8 @@
 
 ## 📌 Links & Overview
 - **Lab ID:** GSP319
-- **🔗 Direct Challenge Lab Link:** [Open GSP319 Lab](https://www.cloudskillsboost.google/focuses/1160?parent=catalog)
-- **🎓 Course & Badge Claim Link:** [Claim Badge](https://www.cloudskillsboost.google/course_templates/638)
+- **🔗 Direct Challenge Lab Link:** <a href="https://www.cloudskillsboost.google/focuses/1160?parent=catalog" target="_blank" rel="noopener noreferrer">Open GSP319 Lab ↗</a>
+- **🎓 Course & Badge Claim Link:** <a href="https://www.cloudskillsboost.google/course_templates/638" target="_blank" rel="noopener noreferrer">Claim Badge ↗</a>
 - **Topic:** GKE Cluster, Container Registry, Monolith Deployment, Orders & Products Microservices, Frontend React/Node Deployment.
 - **Estimated Time:** 5 minutes
 

@@ -2,8 +2,8 @@
 
 ## 📌 Links & Overview
 - **Lab ID:** ARC134
-- **🔗 Direct Challenge Lab Link:** [Open ARC134 Lab](https://www.cloudskillsboost.google/focuses/44301?parent=catalog)
-- **🎓 Course & Badge Claim Link:** [Claim Badge](https://www.cloudskillsboost.google/course_templates/702)
+- **🔗 Direct Challenge Lab Link:** <a href="https://www.cloudskillsboost.google/focuses/44301?parent=catalog" target="_blank" rel="noopener noreferrer">Open ARC134 Lab ↗</a>
+- **🎓 Course & Badge Claim Link:** <a href="https://www.cloudskillsboost.google/course_templates/702" target="_blank" rel="noopener noreferrer">Claim Badge ↗</a>
 - **Topic:** Custom IAM Roles, Service Accounts, Role Bindings, Compute Engine IAM.
 - **Estimated Time:** 3 minutes
 

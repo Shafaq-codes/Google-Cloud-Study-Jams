@@ -2,8 +2,8 @@
 
 ## 📌 Links & Overview
 - **Lab ID:** ARC122
-- **🔗 Direct Challenge Lab Link:** [Open ARC122 Lab](https://skills.google/focuses/64748?parent=catalog)
-- **🎓 Course & Badge Claim Link:** [Claim Badge](https://skills.google/course_templates/633)
+- **🔗 Direct Challenge Lab Link:** <a href="https://skills.google/focuses/64748?parent=catalog" target="_blank" rel="noopener noreferrer">Open ARC122 Lab ↗</a>
+- **🎓 Course & Badge Claim Link:** <a href="https://skills.google/course_templates/633" target="_blank" rel="noopener noreferrer">Claim Badge ↗</a>
 - **Topic:** Cloud Vision API, API Key generation, Text Detection, Landmark Detection, Cloud Storage permissions.
 - **Estimated Time:** 2 minutes
 

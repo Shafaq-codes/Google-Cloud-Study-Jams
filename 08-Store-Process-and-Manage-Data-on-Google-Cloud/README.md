@@ -2,8 +2,8 @@
 
 ## 📌 Links & Overview
 - **Lab ID:** ARC100
-- **🔗 Direct Challenge Lab Link:** [Open ARC100 Lab](https://www.cloudskillsboost.google/focuses/44155?parent=catalog)
-- **🎓 Course & Badge Claim Link:** [Claim Badge](https://www.cloudskillsboost.google/course_templates/658)
+- **🔗 Direct Challenge Lab Link:** <a href="https://www.cloudskillsboost.google/focuses/44155?parent=catalog" target="_blank" rel="noopener noreferrer">Open ARC100 Lab ↗</a>
+- **🎓 Course & Badge Claim Link:** <a href="https://www.cloudskillsboost.google/course_templates/658" target="_blank" rel="noopener noreferrer">Claim Badge ↗</a>
 - **Topic:** Cloud Storage Bucket, Cloud Pub/Sub Topic, 2nd Gen Cloud Function (`memories-thumbnail-maker`), Image processing with `sharp`.
 - **Estimated Time:** 4 minutes
 

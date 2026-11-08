@@ -2,8 +2,8 @@
 
 ## 📌 Links & Overview
 - **Lab ID:** GSP515
-- **🔗 Direct Challenge Lab Link:** [Open GSP515 Lab](https://skills.google/focuses/85653?parent=catalog)
-- **🎓 Course & Badge Claim Link:** [Claim Badge](https://skills.google/course_templates/959)
+- **🔗 Direct Challenge Lab Link:** <a href="https://skills.google/focuses/85653?parent=catalog" target="_blank" rel="noopener noreferrer">Open GSP515 Lab ↗</a>
+- **🎓 Course & Badge Claim Link:** <a href="https://skills.google/course_templates/959" target="_blank" rel="noopener noreferrer">Claim Badge ↗</a>
 - **Topic:** Agent Platform, Gemini REST API (`gemini-3.6-flash`), Vertex AI Workbench, Function Calling, Multimodal Video Streaming.
 - **Estimated Time:** 4 minutes
 

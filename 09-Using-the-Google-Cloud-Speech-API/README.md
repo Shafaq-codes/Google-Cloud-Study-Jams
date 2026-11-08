@@ -2,8 +2,8 @@
 
 ## 📌 Links & Overview
 - **Lab ID:** ARC131
-- **🔗 Direct Challenge Lab Link:** [Open ARC131 Lab](https://www.cloudskillsboost.google/focuses/44299?parent=catalog)
-- **🎓 Course & Badge Claim Link:** [Claim Badge](https://www.cloudskillsboost.google/course_templates/678)
+- **🔗 Direct Challenge Lab Link:** <a href="https://www.cloudskillsboost.google/focuses/44299?parent=catalog" target="_blank" rel="noopener noreferrer">Open ARC131 Lab ↗</a>
+- **🎓 Course & Badge Claim Link:** <a href="https://www.cloudskillsboost.google/course_templates/678" target="_blank" rel="noopener noreferrer">Claim Badge ↗</a>
 - **Topic:** Cloud Speech-to-Text API, Audio transcription, API key authentication, Audio encoding.
 - **Estimated Time:** 2 minutes
 
