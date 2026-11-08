@@ -1,9 +1,17 @@
 #!/bin/bash
+# ==============================================================================
 # Solution for GSP319 - Build a Website on Google Cloud
+# ⚠️ ATTENTION: Check your lab instructions for your assigned Region and Zone!
+# Replace the values below if your lab assigned a different region/zone:
+# ==============================================================================
+export REGION="us-central1"     # <-- Change to your assigned Region
+export ZONE="us-central1-a"     # <-- Change to your assigned Zone
+# ==============================================================================
+
 set -e
 
-export ZONE="us-central1-a"
 gcloud config set compute/zone ${ZONE}
+gcloud config set compute/region ${REGION}
 export PROJECT_ID=$(gcloud config get-value project)
 
 echo "=== 1. Download Repository ==="

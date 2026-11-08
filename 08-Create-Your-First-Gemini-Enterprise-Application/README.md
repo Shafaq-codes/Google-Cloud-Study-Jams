@@ -49,3 +49,4 @@ Open the Assessment inside the course and select the following answers:
 ## 🎯 Verification:
 1. Submit the quiz -> **Score: 100%**.
 2. Course completion and official Skill Badge will unlock instantly!
+

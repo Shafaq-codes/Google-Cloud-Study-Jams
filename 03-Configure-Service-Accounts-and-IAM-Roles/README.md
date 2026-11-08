@@ -1,8 +1,9 @@
 # Badge 03: Configure Service Accounts and IAM Roles for Google Cloud (ARC134)
 
-## 📌 Lab Overview
+## 📌 Links & Overview
 - **Lab ID:** ARC134
-- **Course Name:** Configure Service Accounts and IAM Roles for Google Cloud
+- **🔗 Direct Challenge Lab Link:** [Open ARC134 Lab](https://www.cloudskillsboost.google/focuses/44301?parent=catalog)
+- **🎓 Course & Badge Claim Link:** [Claim Badge](https://www.cloudskillsboost.google/course_templates/702)
 - **Topic:** Custom IAM Roles, Service Accounts, Role Bindings, Compute Engine IAM.
 - **Estimated Time:** 3 minutes
 
@@ -55,7 +56,7 @@ echo "=== COMPLETED 100/100 ==="
 
 ---
 
-## 🎯 Verification:
+## 🎯 Verification & Claiming:
 1. Click **Check my progress** for all tasks on the lab page (Score: 100/100).
 2. Click **End Lab**.
-3. Go to catalog -> Search **`Configure Service Accounts and IAM Roles`** -> Open **Course | Skill badge** card -> Click **Start** to claim the badge!
+3. Open the **[Course Claim Link](https://www.cloudskillsboost.google/course_templates/702)** -> Click **`Start`** to claim your badge in 5 seconds!

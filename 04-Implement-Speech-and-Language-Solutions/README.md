@@ -1,8 +1,9 @@
 # Badge 04: Implement Speech and Language Solutions with Pre-trained APIs (ARC132)
 
-## 📌 Lab Overview
+## 📌 Links & Overview
 - **Lab ID:** ARC132
-- **Course Name:** Implement Speech and Language Solutions with Pre-trained APIs
+- **🔗 Direct Challenge Lab Link:** [Open ARC132 Lab](https://www.cloudskillsboost.google/focuses/44300?parent=catalog)
+- **🎓 Course & Badge Claim Link:** [Claim Badge](https://www.cloudskillsboost.google/course_templates/679)
 - **Topic:** Cloud Speech-to-Text API, Cloud Natural Language API, Cloud Translation API.
 - **Estimated Time:** 3 minutes
 
@@ -77,7 +78,7 @@ echo "=== COMPLETED 100/100 ==="
 
 ---
 
-## 🎯 Verification:
+## 🎯 Verification & Claiming:
 1. Click **Check my progress** for all tasks on the lab page (Score: 100/100).
 2. Click **End Lab**.
-3. Go to catalog -> Search **`Implement Speech and Language Solutions`** -> Open **Course | Skill badge** card -> Click **Start** to claim the badge!
+3. Open the **[Course Claim Link](https://www.cloudskillsboost.google/course_templates/679)** -> Click **`Start`** to claim your badge in 5 seconds!

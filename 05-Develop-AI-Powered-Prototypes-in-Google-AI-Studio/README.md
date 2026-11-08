@@ -1,8 +1,9 @@
 # Badge 05: Develop AI-Powered Prototypes in Google AI Studio (GSP529)
 
-## 📌 Lab Overview
+## 📌 Links & Overview
 - **Lab ID:** GSP529
-- **Course Name:** Develop AI-Powered Prototypes in Google AI Studio
+- **🔗 Direct Challenge Lab Link:** [Open GSP529 Lab](https://www.cloudskillsboost.google/focuses/105436?parent=catalog)
+- **🎓 Course & Badge Claim Link:** [Claim Badge](https://www.cloudskillsboost.google/course_templates/997)
 - **Topic:** Google AI Studio, System Instructions, Few-shot Prompting, Multimodal Image Input, Code Export.
 - **Estimated Time:** 2 minutes
 
@@ -41,7 +42,7 @@
 
 ---
 
-## 🎯 Verification:
+## 🎯 Verification & Claiming:
 1. Return to the lab page and click **Check my progress** for all tasks (Score: 100/100).
 2. Click **End Lab**.
-3. Go to catalog -> Search **`Develop AI-Powered Prototypes in Google AI Studio`** -> Open **Course | Skill badge** card -> Click **Start** to claim the badge!
+3. Open the **[Course Claim Link](https://www.cloudskillsboost.google/course_templates/997)** -> Click **`Start`** to claim your badge in 5 seconds!

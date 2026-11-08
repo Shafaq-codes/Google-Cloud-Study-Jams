@@ -1,10 +1,17 @@
 # Badge 01: The Basics of Google Cloud Compute (ARC120)
 
-## 📌 Lab Overview
+## 📌 Links & Overview
 - **Lab ID:** ARC120
-- **Course Name:** The Basics of Google Cloud Compute
-- **Topic:** Compute Engine VM Instances, Persistent Disks, Firewall Rules (HTTP/HTTPS), Apache Web Server.
+- **🔗 Direct Challenge Lab Link:** [Open ARC120 Lab](https://www.cloudskillsboost.google/focuses/44154?parent=catalog)
+- **🎓 Course & Badge Claim Link:** [Claim Badge](https://www.cloudskillsboost.google/course_templates/644)
+- **Topic:** Compute Engine VM Instances, Persistent Disks, Firewall Rules (HTTP/HTTPS), NGINX Web Server.
 - **Estimated Time:** 3 minutes
+
+---
+
+> [!IMPORTANT]
+> **Check your assigned Region and Zone!**  
+> In your lab scenario panel, look at the Region and Zone given to you. If they differ from `us-east1` / `us-east1-b`, update the top 2 lines of the script below!
 
 ---
 
@@ -13,9 +20,13 @@
 Open Google Cloud Shell in your lab console and paste:
 
 ```bash
-export ZONE="us-east1-b"
+# ==============================================================================
+# ⚠️ REPLACE WITH YOUR ASSIGNED REGION AND ZONE IF DIFFERENT:
+export REGION="us-east1"       # <-- Change to your assigned Region
+export ZONE="us-east1-b"       # <-- Change to your assigned Zone
+# ==============================================================================
+
 gcloud config set compute/zone ${ZONE}
-export REGION="us-east1"
 gcloud config set compute/region ${REGION}
 
 echo "=== 1. Create Firewall Rule for HTTP ==="
@@ -50,7 +61,7 @@ echo "=== COMPLETED 100/100 ==="
 
 ---
 
-## 🎯 Verification:
+## 🎯 Verification & Claiming:
 1. Click **Check my progress** for all tasks on the lab page (Score: 100/100).
 2. Click **End Lab**.
-3. Go to catalog -> Search **`The Basics of Google Cloud Compute`** -> Open **Course | Skill badge** card -> Click **Start** to claim the badge!
+3. Open the **[Course Claim Link](https://www.cloudskillsboost.google/course_templates/644)** -> Click **`Start`** to claim your badge in 5 seconds!

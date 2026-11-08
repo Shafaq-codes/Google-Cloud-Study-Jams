@@ -1,10 +1,17 @@
 # Badge 06: Build a Website on Google Cloud (GSP319)
 
-## 📌 Lab Overview
+## 📌 Links & Overview
 - **Lab ID:** GSP319
-- **Course Name:** Build a Website on Google Cloud
+- **🔗 Direct Challenge Lab Link:** [Open GSP319 Lab](https://www.cloudskillsboost.google/focuses/1160?parent=catalog)
+- **🎓 Course & Badge Claim Link:** [Claim Badge](https://www.cloudskillsboost.google/course_templates/638)
 - **Topic:** GKE Cluster, Container Registry, Monolith Deployment, Orders & Products Microservices, Frontend React/Node Deployment.
 - **Estimated Time:** 5 minutes
+
+---
+
+> [!IMPORTANT]
+> **Check your assigned Zone!**  
+> In your lab scenario panel, look at the Zone given to you. If it differs from `us-central1-a`, update `ZONE` at the top of the script below!
 
 ---
 
@@ -13,8 +20,14 @@
 Open Google Cloud Shell in your lab console and paste:
 
 ```bash
-export ZONE="us-central1-a"
+# ==============================================================================
+# ⚠️ REPLACE WITH YOUR ASSIGNED REGION AND ZONE IF DIFFERENT:
+export REGION="us-central1"     # <-- Change to your assigned Region
+export ZONE="us-central1-a"     # <-- Change to your assigned Zone
+# ==============================================================================
+
 gcloud config set compute/zone ${ZONE}
+gcloud config set compute/region ${REGION}
 export PROJECT_ID=$(gcloud config get-value project)
 
 echo "=== 1. Download Repository ==="
@@ -49,7 +62,6 @@ kubectl expose deployment products --type=LoadBalancer --port 80 --target-port 8
 echo "=== 5. Configure & Deploy Frontend ==="
 cd ~/monolith-to-microservices/microservices/src/frontend
 
-# Wait for orders and products external IPs
 sleep 15
 ORDERS_IP=$(kubectl get service orders -o jsonpath='{.status.loadBalancer.ingress[0].ip}')
 PRODUCTS_IP=$(kubectl get service products -o jsonpath='{.status.loadBalancer.ingress[0].ip}')
@@ -69,7 +81,7 @@ echo "=== COMPLETED 100/100 ==="
 
 ---
 
-## 🎯 Verification:
+## 🎯 Verification & Claiming:
 1. Click **Check my progress** for all tasks on the lab page (Score: 100/100).
 2. Click **End Lab**.
-3. Go to catalog -> Search **`Build a Website on Google Cloud`** -> Open **Course | Skill badge** card -> Click **Start** to claim the badge!
+3. Open the **[Course Claim Link](https://www.cloudskillsboost.google/course_templates/638)** -> Click **`Start`** to claim your badge in 5 seconds!

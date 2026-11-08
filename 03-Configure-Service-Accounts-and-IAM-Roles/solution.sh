@@ -40,3 +40,4 @@ gcloud projects add-iam-policy-binding ${PROJECT_ID} \
   --role="roles/viewer"
 
 echo "=== COMPLETED 100/100 ==="
+

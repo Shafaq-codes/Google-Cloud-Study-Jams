@@ -1,8 +1,9 @@
 # Badge 09: Explore Generative AI with the Gemini API in Agent Platform (GSP515)
 
-## 📌 Lab Overview
+## 📌 Links & Overview
 - **Lab ID:** GSP515
-- **Course Name:** Explore Generative AI in Agent Platform
+- **🔗 Direct Challenge Lab Link:** [Open GSP515 Lab](https://skills.google/focuses/85653?parent=catalog)
+- **🎓 Course & Badge Claim Link:** [Claim Badge](https://skills.google/course_templates/959)
 - **Topic:** Agent Platform, Gemini REST API (`gemini-3.6-flash`), Vertex AI Workbench, Function Calling, Multimodal Video Streaming.
 - **Estimated Time:** 4 minutes
 
@@ -118,8 +119,8 @@ for response in responses:
 
 ---
 
-## 🎯 Verification:
+## 🎯 Verification & Claiming:
 1. Run each cell sequentially (`Shift + Enter`).
 2. Go back to the lab page and click **Check my progress** on all tasks (Score: 100/100).
 3. Click **End Lab**.
-4. Go to Catalog -> Search **`Explore Generative AI in Agent Platform`** -> Open **Course | Skill badge** card -> Click **Start** to claim the badge!
+4. Open the **[Course Claim Link](https://skills.google/course_templates/959)** -> Click **`Start`** to claim your badge in 5 seconds!

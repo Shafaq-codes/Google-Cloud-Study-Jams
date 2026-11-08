@@ -1,9 +1,15 @@
 #!/bin/bash
+# ==============================================================================
 # Solution for ARC100 - Store, Process, and Manage Data on Google Cloud - Console
+# ⚠️ ATTENTION: Check your lab instructions for your assigned Region!
+# Replace the value below if your lab assigned a different region:
+# ==============================================================================
+export REGION="us-east1"       # <-- Change to your assigned Region
+# ==============================================================================
+
 set -e
 
 export PROJECT_ID=$(gcloud config get-value project)
-export REGION="us-east1"
 
 echo "=== 1. Extract Assigned Bucket & Topic Names ==="
 BUCKET_NAME=$(gcloud storage buckets list --format="value(name)" | grep "memories-bucket" | head -n 1)

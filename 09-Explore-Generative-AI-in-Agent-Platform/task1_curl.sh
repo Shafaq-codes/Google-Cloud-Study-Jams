@@ -19,3 +19,4 @@ curl -X POST \
     ]
   }' \
   "https://aiplatform.googleapis.com/v1/projects/${PROJECT_ID}/locations/${LOCATION}/publishers/google/models/gemini-3.6-flash:generateContent"
+

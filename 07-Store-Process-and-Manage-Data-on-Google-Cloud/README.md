@@ -1,10 +1,17 @@
 # Badge 07: Store, Process, and Manage Data on Google Cloud - Console (ARC100)
 
-## 📌 Lab Overview
+## 📌 Links & Overview
 - **Lab ID:** ARC100
-- **Course Name:** Store, Process, and Manage Data on Google Cloud - Console
+- **🔗 Direct Challenge Lab Link:** [Open ARC100 Lab](https://www.cloudskillsboost.google/focuses/44155?parent=catalog)
+- **🎓 Course & Badge Claim Link:** [Claim Badge](https://www.cloudskillsboost.google/course_templates/658)
 - **Topic:** Cloud Storage Bucket, Cloud Pub/Sub Topic, 2nd Gen Cloud Function (`memories-thumbnail-maker`), Image processing with `sharp`.
 - **Estimated Time:** 4 minutes
+
+---
+
+> [!IMPORTANT]
+> **Check your assigned Region!**  
+> In your lab scenario panel, look at the Region given to you. If it differs from `us-east1`, update `REGION` at the top of the script below!
 
 ---
 
@@ -13,11 +20,14 @@
 Open Google Cloud Shell in your lab console and paste:
 
 ```bash
+# ==============================================================================
+# ⚠️ REPLACE WITH YOUR ASSIGNED REGION IF DIFFERENT:
+export REGION="us-east1"       # <-- Change to your assigned Region
+# ==============================================================================
+
 export PROJECT_ID=$(gcloud config get-value project)
-export REGION="us-east1"
 
 echo "=== 1. Extract Assigned Bucket & Topic Names from Lab Tasks ==="
-# Check assigned bucket and topic names from the prompt or defaults:
 BUCKET_NAME=$(gcloud storage buckets list --format="value(name)" | grep "memories-bucket" | head -n 1)
 if [ -z "$BUCKET_NAME" ]; then
   BUCKET_NAME="memories-bucket-${RANDOM}"
@@ -93,7 +103,7 @@ echo "=== COMPLETED 100/100 ==="
 
 ---
 
-## 🎯 Verification:
+## 🎯 Verification & Claiming:
 1. Click **Check my progress** for all tasks on the lab page (Score: 100/100).
 2. Click **End Lab**.
-3. Go to catalog -> Search **`Store, Process, and Manage Data on Google Cloud - Console`** -> Open **Course | Skill badge** card -> Click **Start** to claim the badge!
+3. Open the **[Course Claim Link](https://www.cloudskillsboost.google/course_templates/658)** -> Click **`Start`** to claim your badge in 5 seconds!

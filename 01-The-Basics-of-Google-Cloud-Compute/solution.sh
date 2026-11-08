@@ -1,10 +1,16 @@
 #!/bin/bash
+# ==============================================================================
 # Solution for ARC120 - The Basics of Google Cloud Compute
+# ⚠️ ATTENTION: Check your lab instructions for your assigned Region and Zone!
+# Replace the values below if your lab assigned a different region/zone:
+# ==============================================================================
+export REGION="us-east1"       # <-- Change to your assigned Region
+export ZONE="us-east1-b"       # <-- Change to your assigned Zone
+# ==============================================================================
+
 set -e
 
-export ZONE="us-east1-b"
 gcloud config set compute/zone ${ZONE}
-export REGION="us-east1"
 gcloud config set compute/region ${REGION}
 
 echo "=== 1. Create Firewall Rule for HTTP ==="

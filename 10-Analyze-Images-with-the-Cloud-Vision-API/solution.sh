@@ -79,3 +79,4 @@ curl -s -X POST -H "Content-Type: application/json" \
 gcloud storage cp landmark-response.json gs://$BUCKET/
 
 echo "=== ALL TASKS COMPLETED (100/100) ==="
+

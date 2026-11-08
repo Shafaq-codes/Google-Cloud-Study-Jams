@@ -63,3 +63,4 @@ print_multimodal_prompt(contents)
 print("\n-------Response--------")
 for response in responses:
     print(response.text, end="")
+

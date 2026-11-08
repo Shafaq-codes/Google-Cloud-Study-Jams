@@ -1,7 +1,9 @@
 # Badge 10: Analyze Images with the Cloud Vision API (ARC122)
 
-## 📌 Lab Overview
+## 📌 Links & Overview
 - **Lab ID:** ARC122
+- **🔗 Direct Challenge Lab Link:** [Open ARC122 Lab](https://skills.google/focuses/64748?parent=catalog)
+- **🎓 Course & Badge Claim Link:** [Claim Badge](https://skills.google/course_templates/633)
 - **Topic:** Cloud Vision API, API Key generation, Text Detection, Landmark Detection, Cloud Storage permissions.
 - **Estimated Time:** 2 minutes
 
@@ -94,7 +96,7 @@ echo "=== ALL TASKS COMPLETED (100/100) ==="
 
 ---
 
-## 🎯 Verification:
-1. Click **Check my progress** for all tasks on the lab instructions page.
+## 🎯 Verification & Claiming:
+1. Click **Check my progress** for all tasks on the lab instructions page (Score: 100/100).
 2. Click **End Lab**.
-3. Go to catalog -> Search **"Analyze Images with the Cloud Vision API"** -> Open **Course | Skill badge** card -> Click **Start** to claim the badge!
+3. Open the **[Course Claim Link](https://skills.google/course_templates/633)** -> Click **`Start`** to claim your badge in 5 seconds!
